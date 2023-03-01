@@ -8,7 +8,7 @@ A personal finance app that aims to provide users with a convenient and efficien
 Users will be able to register and login to the app and input their income, and report their expenses manually or by using Plaid, a financial data platform that connects to users' bank accounts. This feature will enable users to keep track of their income and spending and make informed financial decisions.
 
 ## Contributors
-<br> Back-End: [Wyatt Nagel](https://github.com/nagelwy)
+ Back-End: [Wyatt Nagel](https://github.com/nagelwy)
 <br> Back-End: [Christian Samson](https://github.com/rewindnuclear)
 <br> Front-End (Web): [Megan Carlson](https://github.com/meglc)
 <br> Front-End (Web): [Joshua Abrams](https://github.com/j-b-rams)
