@@ -7,7 +7,6 @@
 
 ## Contributors
 
-
 <br> Back-End: [Wyatt Nagel](https://github.com/nagelwy)
 <br> Back-End: [Christian Samson](https://github.com/rewindnuclear)
 <br> Front-End (Web): [Megan Carlson](https://github.com/meglc)
