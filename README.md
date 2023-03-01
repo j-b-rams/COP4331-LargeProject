@@ -3,9 +3,9 @@
 <br> Link to Website: [FianceBruh](http://contactasaurus.com/)
 
 ## Description
-a personal finance app that aims to provide users with a convenient and efficient way to manage their finances. The app will have both a mobile and web interface, with an elegant user interface that enhances the user experience.
+A personal finance app that aims to provide users with a convenient and efficient way to manage their finances. The app will have both a mobile and web side, with an elegant user interface that enhances the user experience.
 
-Users will be able to register and login to the app and input their income manually or by using Plaid, a financial data platform that connects to users' bank accounts. This feature will enable users to keep track of their income and spending and make informed financial decisions.
+Users will be able to register and login to the app and input their income, and report their expenses manually or by using Plaid, a financial data platform that connects to users' bank accounts. This feature will enable users to keep track of their income and spending and make informed financial decisions.
 
 ## Contributors
 <br> Back-End: [Wyatt Nagel](https://github.com/nagelwy)
