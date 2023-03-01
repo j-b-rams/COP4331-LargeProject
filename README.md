@@ -1,6 +1,6 @@
-# Contactasaurus
+# Finance
 *COP4331 - Processes of Object-Oriented Software Development*
-<br> Link to Website: [FianceBruh](http://contactasaurus.com/)
+<br> Link to Website: [FinanceBruh](http://contactasaurus.com/)
 
 ## Description
 A personal finance app that aims to provide users with a convenient and efficient way to manage their finances. The app will have both a mobile and web side, with an elegant user interface that enhances the user experience.
